@@ -1,4 +1,4 @@
-# 🚗 Safe Driving — Real-Time Driver Monitoring
+# Safe Driving — Real-Time Driver Monitoring
 
 Computer Vision project for real-time driver monitoring using YOLOv8.
 
