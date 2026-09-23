@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# YOLO datasets
+train/
+valid/
+test/
+
+# YOLO training results
+runs/
+
+# YOLO model weights
+*.pt
+*.onnx
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images generated during testing
+*.jpg
+*.jpeg
+*.png
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project datasets
+dataset/
+dataset_v2/
+dataset_v2_roboflow/
+dataset_v3_roboflow/
+
+# Test/output folders
+auto_no_seatbelt/
